@@ -1,0 +1,42 @@
+body
+{
+    text-align: center;
+    font-size: 200%;
+    background-color: bisque;
+}
+section
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+header
+{
+    background-color: rgb(199, 157, 106);
+}
+header a
+{
+    color: white;
+}
+footer 
+{
+    background-color: rgb(171, 131, 83);
+}
+footer a 
+{
+    color: white;
+}
+div 
+{
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.br
+{
+    padding-bottom: 10%;
+}
+li 
+{
+    text-align: left;
+}
