@@ -1,0 +1,77 @@
+td
+{
+    text-align: center;
+    font-size: 60px;
+    padding: 10px;
+}
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: fantasy;
+}
+.days
+{
+    background-color: black;
+    color: white;
+}
+#words
+{
+    font-size: 24px;
+}
+#august
+{
+    text-align: center;
+    font-size: 60px;
+    font-family: fantasy;
+    letter-spacing: 5px;
+}
+.holiday
+{
+    background-color: black;
+    color: yellow;
+}
+.holidays
+{
+    text-decoration-line: underline;
+}
+body
+{
+    background-color: yellow;
+    background: url(https://pibig.info/uploads/posts/2022-12/1669951951_55-pibig-info-p-fon-s-kvadratami-instagram-56.jpg);
+    background-repeat: no-repeat;
+    background-position: left, right;
+    background-size: cover;
+}
+header
+{
+    background-color: black;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button
+{
+    border: 2px solid white;
+    background-color: black;
+    cursor: pointer;
+}
+footer
+{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+section
+{
+    margin-left: 20px;
+}
+p
+{
+    font-size: 20px;
+}
+a
+{
+    color: white;
+}
+

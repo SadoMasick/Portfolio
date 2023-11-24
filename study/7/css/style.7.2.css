@@ -1,0 +1,48 @@
+body
+{
+    background-color: rgb(95, 22, 22);
+}
+main
+{
+    background-color: brown;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+#me
+{
+    background-color: gray;
+    border-style: solid;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 150%;
+}
+#port
+{
+    background-color: rgb(99, 98, 98);
+    border-style: solid;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 200%;
+}
+#us
+{
+    background-color: rgb(66, 66, 66);
+    border-style: solid;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 250%;
+}
