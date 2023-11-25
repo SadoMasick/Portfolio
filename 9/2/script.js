@@ -1,10 +1,13 @@
-let change = confirm("Тебе нравятся коалы?");
-
-if(change == 1)
+function chat()
 {
-    alert("Мне тоже");
+    let change = confirm("Тебе нравятся коалы?");
+    if(change == 1)
+    {
+        alert("Мне тоже");
+    }
+    else
+    {
+        alert("Что ж, на вкус и цвет, друга нет");
+    }
 }
-else
-{
-    alert("Что ж, на вкус и цвет, друга нет");
-}
+chat();
